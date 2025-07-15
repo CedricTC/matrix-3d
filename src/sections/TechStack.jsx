@@ -4,28 +4,28 @@ const TechStack = () => {
   const wantedCriminals = [
     {
       name: "Neo",
-      image: "/images/Neo.png",
+      image: "./images/Neo.png",
       crime: "Matrix'i Hackleme",
       bounty: "50,000,000",
       status: "SON DERECE TEHLİKELİ"
     },
     {
       name: "Trinity",
-      image: "/images/Trinity.png",
+      image: "./images/Trinity.png",
       crime: "Sistem Sızması",
       bounty: "35,000,000",
       status: "SİLAHLI & TEHLİKELİ"
     },
     {
       name: "Morpheus",
-      image: "/images/Morpheus.png",
+      image: "./images/Morpheus.png",
       crime: "Terörist Faaliyetler",
       bounty: "40,000,000",
       status: "TERÖRİST LİDERİ"
     },
     {
       name: "Smith",
-      image: "/images/Smith.png",
+      image: "./images/Smith.png",
       crime: "Program Bozma",
       bounty: "100,000,000",
       status: "HAİN AJAN"
