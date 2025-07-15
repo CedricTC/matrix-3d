@@ -839,4 +839,4 @@ export function Room2(props) {
   )
 }
 
-useGLTF.preload('/models/matrix-room.glb')
+const modelPath = `${import.meta.env.BASE_URL}models/matrix-room.glb`;
