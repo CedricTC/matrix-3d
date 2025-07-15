@@ -105,7 +105,7 @@ const Hero = () => {
   const systemCommands = [
     { cmd: "whoami", output: "neo@matrix:~$ Full Stack Geliştirici" },
     { cmd: "cat /proc/skills", output: "React • Next.js • Node.js • Python • AI/ML" },
-    { cmd: "grep -r 'location'", output: "Türkiye" },
+    { cmd: "grep -r 'location'", output: "İstanbul, Türkiye" },
     { cmd: "systemctl status neo.service", output: "1999'dan beri çalışıyor" }
   ]
 
